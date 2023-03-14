@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ShopManage" Class="DataClasses18DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=ShopManage;Integrated Security=True" SettingsObjectName="ShopMnagementSystem.Properties.Settings" SettingsPropertyName="ShopManageConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tblcompanyaccount" Member="tblcompanyaccounts">
+    <Type Name="tblcompanyaccount">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="[Company Name]" Member="Company_Name" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="[Product Name]" Member="Product_Name" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="[Buy Price]" Member="Buy_Price" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Qunatity" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="[Name Amount]" Member="Name_Amount" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="[Juma Amount]" Member="Juma_Amount" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="[Bqaya Amount]" Member="Bqaya_Amount" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

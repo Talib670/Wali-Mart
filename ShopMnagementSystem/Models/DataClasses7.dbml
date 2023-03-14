@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ShopManage" Class="DataClasses7DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=ShopManage;Integrated Security=True" SettingsObjectName="ShopMnagementSystem.Properties.Settings" SettingsPropertyName="ShopManageConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.GenralPurchase" Member="GenralPurchases">
+    <Type Name="GenralPurchase">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Details" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="[Name Amount]" Member="Name_Amount" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="[Jumma Amount]" Member="Jumma_Amount" Type="System.String" DbType="NVarChar(60)" CanBeNull="true" />
+      <Column Name="[Baqaya Amount]" Member="Baqaya_Amount" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

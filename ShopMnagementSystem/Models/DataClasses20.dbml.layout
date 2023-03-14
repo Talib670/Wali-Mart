@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DataClasses20">
+  <DataContextMoniker Name="/DataClasses20DataContext" />
+  <nestedChildShapes>
+    <classShape Id="d9b15588-87b9-4c40-8b2c-623d8b4dc568" absoluteBounds="3.375, 1.5, 2, 1.3862939453125">
+      <DataClassMoniker Name="/DataClasses20DataContext/companyborrowbqayaamount" />
+      <nestedChildShapes>
+        <elementListCompartment Id="45301177-7496-4cde-bea2-38f20cfdf292" absoluteBounds="3.39, 1.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

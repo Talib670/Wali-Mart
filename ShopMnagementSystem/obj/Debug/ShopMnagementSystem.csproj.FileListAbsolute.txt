@@ -1,0 +1,349 @@
+C:\Users\LALA\source\repos\ShopMnagementSystem\ShopMnagementSystem\bin\Debug\ShopMnagementSystem.exe.config
+C:\Users\LALA\source\repos\ShopMnagementSystem\ShopMnagementSystem\bin\Debug\ShopMnagementSystem.exe
+C:\Users\LALA\source\repos\ShopMnagementSystem\ShopMnagementSystem\bin\Debug\ShopMnagementSystem.pdb
+C:\Users\LALA\source\repos\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.csprojAssemblyReference.cache
+C:\Users\LALA\source\repos\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Form1.resources
+C:\Users\LALA\source\repos\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Properties.Resources.resources
+C:\Users\LALA\source\repos\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.csproj.GenerateResource.cache
+C:\Users\LALA\source\repos\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\LALA\source\repos\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.exe
+C:\Users\LALA\source\repos\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.pdb
+C:\Users\LALA\source\repos\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\StudentManagementSystem.screens.Templates.templateForm.resources
+C:\Users\LALA\source\repos\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.AddProductForm.resources
+C:\Users\LALA\source\repos\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.DashboardForm.resources
+C:\Users\LALA\source\repos\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.ProductsViewForm.resources
+C:\Users\LALA\source\repos\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.LoginForm.resources
+C:\Users\LALA\source\repos\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.AboutForm.resources
+C:\Users\LALA\source\repos\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.HelpForm.resources
+C:\Users\LALA\source\repos\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.ManageReports.resources
+C:\Users\LALA\source\repos\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.SoldReportForm.resources
+C:\Users\LALA\source\repos\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.changepassForm.resources
+C:\Users\LALA\source\repos\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.usersForm.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\bin\Debug\ShopMnagementSystem.exe.config
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\bin\Debug\ShopMnagementSystem.exe
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\bin\Debug\ShopMnagementSystem.pdb
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.AboutForm.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.AddProductForm.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.changepassForm.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.DashboardForm.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.HelpForm.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.LoginForm.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.ManageReports.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Form1.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.ProductsViewForm.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.SoldReportForm.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\StudentManagementSystem.screens.Templates.templateForm.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Properties.Resources.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.usersForm.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.csproj.GenerateResource.cache
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.exe
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.pdb
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Waqar.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.waqarreportForm.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.GenralPurchasecompanyForm.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.ReportForm.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Purchase_Accounts.PurchaseAccountForm.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Purchase_Accounts.TotalpurchaseReportForm.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.AccountsdashboardForm.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Sale_Account.addsaleForm.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Sale_Account.SaleaccountForm.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Clients_Accounts.ClientsForm.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Clients_Accounts.clientreportForm.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Expenditures.AddexpensesForm.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Expenditures.expensisreportsForm.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Employees.employeeForm.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Employees.employeereportForm.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Clients_Accounts.newclientForm.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Clients_Accounts.newclientreportForm.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.barcodegenratorForm.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.ExpiryForm.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.CompanyAccountsForm.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\bin\Debug\System.Security.AccessControl.dll
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\bin\Debug\System.Security.Permissions.dll
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\bin\Debug\System.Security.Principal.Windows.dll
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\bin\Debug\System.Security.AccessControl.xml
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\bin\Debug\System.Security.Permissions.xml
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\bin\Debug\System.Security.Principal.Windows.xml
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.csproj.CopyComplete
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.newcmpacForm1.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.ExpireForm1.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.reportForm1.resources
+C:\Source Code\ShopMnagementSystem\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.csprojAssemblyReference.cache
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\bin\Debug\ShopMnagementSystem.exe.config
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\bin\Debug\ShopMnagementSystem.exe
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\bin\Debug\ShopMnagementSystem.pdb
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\bin\Debug\System.Security.Permissions.dll
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\bin\Debug\System.Security.Permissions.xml
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.AboutForm.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.AccountsdashboardForm.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Clients_Accounts.clientreportForm.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Clients_Accounts.ClientsForm.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Clients_Accounts.newclientForm.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Clients_Accounts.newclientreportForm.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.ExpireForm1.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.GenralPurchasecompanyForm.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.newcmpacForm1.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.ReportForm.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.CompanyAccountsForm.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.reportForm1.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Employees.employeeForm.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Employees.employeereportForm.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Expenditures.AddexpensesForm.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Expenditures.expensisreportsForm.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Purchase_Accounts.PurchaseAccountForm.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Purchase_Accounts.TotalpurchaseReportForm.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Sale_Account.addsaleForm.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Sale_Account.SaleaccountForm.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Waqar.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.waqarreportForm.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.AddProductForm.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.barcodegenratorForm.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.changepassForm.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.DashboardForm.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.ExpiryForm.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.HelpForm.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.LoginForm.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.ManageReports.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Form1.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.ProductsViewForm.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.SoldReportForm.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\StudentManagementSystem.screens.Templates.templateForm.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Properties.Resources.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.usersForm.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.csproj.GenerateResource.cache
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.csproj.CopyComplete
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.exe
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.pdb
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.Company_Borrow.Company_Borrow_Account.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.Company_Borrow.CompanyBorrowReportsForm1.resources
+C:\Users\Al Basit Stores\source\Shopping Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\bin\Debug\ShopMnagementSystem.exe.config
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\bin\Debug\ShopMnagementSystem.exe
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\bin\Debug\ShopMnagementSystem.pdb
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\bin\Debug\System.Security.Permissions.dll
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\bin\Debug\System.Security.Permissions.xml
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.csprojAssemblyReference.cache
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.AboutForm.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.AccountsdashboardForm.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Clients_Accounts.clientreportForm.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Clients_Accounts.ClientsForm.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Clients_Accounts.newclientForm.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Clients_Accounts.newclientreportForm.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.Company_Borrow.Company_Borrow_Account.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.Company_Borrow.CompanyBorrowReportsForm1.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.ExpireForm1.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.GenralPurchasecompanyForm.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.newcmpacForm1.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.ReportForm.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.CompanyAccountsForm.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.reportForm1.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Employees.employeeForm.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Employees.employeereportForm.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Expenditures.AddexpensesForm.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Expenditures.expensisreportsForm.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Purchase_Accounts.PurchaseAccountForm.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Purchase_Accounts.TotalpurchaseReportForm.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Sale_Account.addsaleForm.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Sale_Account.SaleaccountForm.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Waqar.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.waqarreportForm.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.AddProductForm.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.barcodegenratorForm.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.changepassForm.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.DashboardForm.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.ExpiryForm.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.HelpForm.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.LoginForm.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.ManageReports.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Form1.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.ProductsViewForm.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.SoldReportForm.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\StudentManagementSystem.screens.Templates.templateForm.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Properties.Resources.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.usersForm.resources
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.csproj.GenerateResource.cache
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.csproj.CopyComplete
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.exe
+C:\Users\Al Basit Stores\source\WaliMart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.pdb
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\bin\Debug\ShopMnagementSystem.exe.config
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\bin\Debug\ShopMnagementSystem.exe
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\bin\Debug\ShopMnagementSystem.pdb
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\bin\Debug\System.Security.AccessControl.dll
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\bin\Debug\System.Security.Permissions.dll
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\bin\Debug\System.Security.Principal.Windows.dll
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\bin\Debug\System.Security.AccessControl.xml
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\bin\Debug\System.Security.Permissions.xml
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\bin\Debug\System.Security.Principal.Windows.xml
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.AboutForm.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.AccountsdashboardForm.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Clients_Accounts.clientreportForm.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Clients_Accounts.ClientsForm.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Clients_Accounts.newclientForm.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Clients_Accounts.newclientreportForm.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.Company_Borrow.Company_Borrow_Account.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.Company_Borrow.CompanyBorrowReportsForm1.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.ExpireForm1.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.GenralPurchasecompanyForm.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.newcmpacForm1.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.ReportForm.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.CompanyAccountsForm.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.reportForm1.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Employees.employeeForm.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Employees.employeereportForm.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Expenditures.AddexpensesForm.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Expenditures.expensisreportsForm.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Purchase_Accounts.PurchaseAccountForm.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Purchase_Accounts.TotalpurchaseReportForm.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Sale_Account.addsaleForm.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Sale_Account.SaleaccountForm.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Waqar.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.waqarreportForm.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.AddProductForm.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.barcodegenratorForm.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.changepassForm.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.DashboardForm.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.ExpiryForm.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.HelpForm.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.LoginForm.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.ManageReports.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Form1.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.ProductsViewForm.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.SoldReportForm.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\StudentManagementSystem.screens.Templates.templateForm.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Properties.Resources.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.usersForm.resources
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.csproj.GenerateResource.cache
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.csproj.CoreCompileInputs.cache
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.csproj.CopyComplete
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.exe
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.pdb
+E:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.Company_Borrow.cmpreportsForm1.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\bin\Debug\ShopMnagementSystem.exe.config
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\bin\Debug\ShopMnagementSystem.exe
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\bin\Debug\ShopMnagementSystem.pdb
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\bin\Debug\System.Security.AccessControl.dll
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\bin\Debug\System.Security.Permissions.dll
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\bin\Debug\System.Security.Principal.Windows.dll
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\bin\Debug\System.Security.AccessControl.xml
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\bin\Debug\System.Security.Permissions.xml
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\bin\Debug\System.Security.Principal.Windows.xml
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.csprojAssemblyReference.cache
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.AboutForm.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.AccountsdashboardForm.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Clients_Accounts.clientreportForm.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Clients_Accounts.ClientsForm.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Clients_Accounts.newclientForm.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Clients_Accounts.newclientreportForm.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.Company_Borrow.cmpreportsForm1.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.Company_Borrow.Company_Borrow_Account.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.Company_Borrow.CompanyBorrowReportsForm1.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.ExpireForm1.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.GenralPurchasecompanyForm.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.newcmpacForm1.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.ReportForm.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.CompanyAccountsForm.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.reportForm1.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Employees.employeeForm.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Employees.employeereportForm.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Expenditures.AddexpensesForm.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Expenditures.expensisreportsForm.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Purchase_Accounts.PurchaseAccountForm.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Purchase_Accounts.TotalpurchaseReportForm.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Sale_Account.addsaleForm.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Sale_Account.SaleaccountForm.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Waqar.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.waqarreportForm.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.AddProductForm.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.barcodegenratorForm.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.changepassForm.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.DashboardForm.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.ExpiryForm.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.HelpForm.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.LoginForm.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.ManageReports.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Form1.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.ProductsViewForm.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.SoldReportForm.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\StudentManagementSystem.screens.Templates.templateForm.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Properties.Resources.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.usersForm.resources
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.csproj.GenerateResource.cache
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.csproj.CoreCompileInputs.cache
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.csproj.CopyComplete
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.exe
+F:\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.pdb
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\bin\Debug\ShopMnagementSystem.exe.config
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\bin\Debug\ShopMnagementSystem.exe
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\bin\Debug\ShopMnagementSystem.pdb
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\bin\Debug\System.Security.AccessControl.dll
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\bin\Debug\System.Security.Permissions.dll
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\bin\Debug\System.Security.Principal.Windows.dll
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\bin\Debug\System.Security.AccessControl.xml
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\bin\Debug\System.Security.Permissions.xml
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\bin\Debug\System.Security.Principal.Windows.xml
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.AboutForm.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.AccountsdashboardForm.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Clients_Accounts.clientreportForm.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Clients_Accounts.ClientsForm.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Clients_Accounts.newclientForm.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Clients_Accounts.newclientreportForm.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.Company_Borrow.cmpreportsForm1.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.Company_Borrow.Company_Borrow_Account.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.Company_Borrow.CompanyBorrowReportsForm1.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.ExpireForm1.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.GenralPurchasecompanyForm.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.newcmpacForm1.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.ReportForm.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.CompanyAccountsForm.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Company_Accounts.reportForm1.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Employees.employeeForm.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Employees.employeereportForm.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Expenditures.AddexpensesForm.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Expenditures.expensisreportsForm.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Purchase_Accounts.PurchaseAccountForm.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Purchase_Accounts.TotalpurchaseReportForm.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Sale_Account.addsaleForm.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Sale_Account.SaleaccountForm.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.Waqar.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.Accounts.waqarreportForm.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.AddProductForm.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.barcodegenratorForm.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.changepassForm.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.DashboardForm.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.ExpiryForm.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.HelpForm.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.LoginForm.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.ManageReports.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Form1.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.ProductsViewForm.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.SoldReportForm.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\StudentManagementSystem.screens.Templates.templateForm.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Properties.Resources.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.Screens.usersForm.resources
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.csproj.GenerateResource.cache
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.csproj.CoreCompileInputs.cache
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.csproj.CopyComplete
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.exe
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.pdb
+C:\Munir Ahmad Programming\Soft Source Code\Wali Mart\ShopMnagementSystem\obj\Debug\ShopMnagementSystem.csproj.AssemblyReference.cache

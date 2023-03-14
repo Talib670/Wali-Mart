@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ShopManage" Class="DataClasses4DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=ShopManage;Integrated Security=True" SettingsObjectName="ShopMnagementSystem.Properties.Settings" SettingsPropertyName="ShopManageConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tblLogin" Member="tblLogins">
+    <Type Name="tblLogin">
+      <Column Name="[Login id]" Member="Login_id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="[User Name]" Member="User_Name" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="Password" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

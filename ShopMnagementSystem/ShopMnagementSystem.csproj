@@ -1,0 +1,724 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{88B77091-9F1D-4AD8-913E-DC0AAF82AF85}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ShopMnagementSystem</RootNamespace>
+    <AssemblyName>ShopMnagementSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1000\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.ConfigurationManager, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Configuration.ConfigurationManager.4.7.0\lib\net461\System.Configuration.ConfigurationManager.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Security.AccessControl, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.AccessControl.4.7.0\lib\net461\System.Security.AccessControl.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Permissions, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Permissions.4.7.0\lib\net461\System.Security.Permissions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Principal.Windows, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Principal.Windows.4.7.0\lib\net461\System.Security.Principal.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Models\cartitem.cs" />
+    <Compile Include="Models\DataClasses1.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClasses1.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\DataClasses10.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClasses10.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\DataClasses11.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClasses11.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\DataClasses12.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClasses12.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\DataClasses13.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClasses13.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\DataClasses14.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClasses14.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\DataClasses15.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClasses15.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\DataClasses16.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClasses16.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\DataClasses17.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClasses17.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\DataClasses18.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClasses18.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\DataClasses19.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClasses19.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\DataClasses2.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClasses2.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\DataClasses20.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClasses20.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\DataClasses3.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClasses3.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\DataClasses4.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClasses4.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\DataClasses5.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClasses5.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\DataClasses6.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClasses6.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\DataClasses7.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClasses7.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\DataClasses8.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClasses8.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\DataClasses9.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClasses9.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\AboutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\AboutForm.Designer.cs">
+      <DependentUpon>AboutForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\AccountsdashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\AccountsdashboardForm.Designer.cs">
+      <DependentUpon>AccountsdashboardForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Accounts\Clients Accounts\clientreportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Accounts\Clients Accounts\clientreportForm.Designer.cs">
+      <DependentUpon>clientreportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Accounts\Clients Accounts\ClientsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Accounts\Clients Accounts\ClientsForm.Designer.cs">
+      <DependentUpon>ClientsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Accounts\Clients Accounts\newclientForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Accounts\Clients Accounts\newclientForm.Designer.cs">
+      <DependentUpon>newclientForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Accounts\Clients Accounts\newclientreportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Accounts\Clients Accounts\newclientreportForm.Designer.cs">
+      <DependentUpon>newclientreportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Accounts\Company Accounts\Company Borrow\cmpreportsForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Accounts\Company Accounts\Company Borrow\cmpreportsForm1.Designer.cs">
+      <DependentUpon>cmpreportsForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Accounts\Company Accounts\Company Borrow\Company Borrow Account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Accounts\Company Accounts\Company Borrow\Company Borrow Account.Designer.cs">
+      <DependentUpon>Company Borrow Account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Accounts\Company Accounts\Company Borrow\CompanyBorrowReportsForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Accounts\Company Accounts\Company Borrow\CompanyBorrowReportsForm1.Designer.cs">
+      <DependentUpon>CompanyBorrowReportsForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Accounts\Company Accounts\ExpireForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Accounts\Company Accounts\ExpireForm1.Designer.cs">
+      <DependentUpon>ExpireForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Accounts\Company Accounts\GenralPurchasecompanyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Accounts\Company Accounts\GenralPurchasecompanyForm.Designer.cs">
+      <DependentUpon>GenralPurchasecompanyForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Accounts\Company Accounts\newcmpacForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Accounts\Company Accounts\newcmpacForm1.Designer.cs">
+      <DependentUpon>newcmpacForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Accounts\Company Accounts\ReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Accounts\Company Accounts\ReportForm.Designer.cs">
+      <DependentUpon>ReportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Accounts\Company Accounts\CompanyAccountsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Accounts\Company Accounts\CompanyAccountsForm.Designer.cs">
+      <DependentUpon>CompanyAccountsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Accounts\Company Accounts\reportForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Accounts\Company Accounts\reportForm1.Designer.cs">
+      <DependentUpon>reportForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Accounts\Employees\employeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Accounts\Employees\employeeForm.Designer.cs">
+      <DependentUpon>employeeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Accounts\Employees\employeereportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Accounts\Employees\employeereportForm.Designer.cs">
+      <DependentUpon>employeereportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Accounts\Expenditures\AddexpensesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Accounts\Expenditures\AddexpensesForm.Designer.cs">
+      <DependentUpon>AddexpensesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Accounts\Expenditures\expensisreportsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Accounts\Expenditures\expensisreportsForm.Designer.cs">
+      <DependentUpon>expensisreportsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Accounts\Purchase Accounts\PurchaseAccountForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Accounts\Purchase Accounts\PurchaseAccountForm.Designer.cs">
+      <DependentUpon>PurchaseAccountForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Accounts\Purchase Accounts\TotalpurchaseReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Accounts\Purchase Accounts\TotalpurchaseReportForm.Designer.cs">
+      <DependentUpon>TotalpurchaseReportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Accounts\Sale Account\addsaleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Accounts\Sale Account\addsaleForm.Designer.cs">
+      <DependentUpon>addsaleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Accounts\Sale Account\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Accounts\Sale Account\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Accounts\Sale Account\SaleaccountForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Accounts\Sale Account\SaleaccountForm.Designer.cs">
+      <DependentUpon>SaleaccountForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Accounts\Waqar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Accounts\Waqar.Designer.cs">
+      <DependentUpon>Waqar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Accounts\waqarreportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Accounts\waqarreportForm.Designer.cs">
+      <DependentUpon>waqarreportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\AddProductForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\AddProductForm.Designer.cs">
+      <DependentUpon>AddProductForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\barcodegenratorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\barcodegenratorForm.Designer.cs">
+      <DependentUpon>barcodegenratorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\changepassForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\changepassForm.Designer.cs">
+      <DependentUpon>changepassForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\DashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\DashboardForm.Designer.cs">
+      <DependentUpon>DashboardForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\ExpiryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\ExpiryForm.Designer.cs">
+      <DependentUpon>ExpiryForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\HelpForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\HelpForm.Designer.cs">
+      <DependentUpon>HelpForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\ManageReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\ManageReports.Designer.cs">
+      <DependentUpon>ManageReports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\ProductsOrderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\ProductsOrderForm.Designer.cs">
+      <DependentUpon>ProductsOrderForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\ProductsViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\ProductsViewForm.Designer.cs">
+      <DependentUpon>ProductsViewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\SoldReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\SoldReportForm.Designer.cs">
+      <DependentUpon>SoldReportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Template\templateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Template\templateForm.Designer.cs">
+      <DependentUpon>templateForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\DecHelper.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Screens\usersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\usersForm.Designer.cs">
+      <DependentUpon>usersForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Screens\AboutForm.resx">
+      <DependentUpon>AboutForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\AccountsdashboardForm.resx">
+      <DependentUpon>AccountsdashboardForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Accounts\Clients Accounts\clientreportForm.resx">
+      <DependentUpon>clientreportForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Accounts\Clients Accounts\ClientsForm.resx">
+      <DependentUpon>ClientsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Accounts\Clients Accounts\newclientForm.resx">
+      <DependentUpon>newclientForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Accounts\Clients Accounts\newclientreportForm.resx">
+      <DependentUpon>newclientreportForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Accounts\Company Accounts\Company Borrow\cmpreportsForm1.resx">
+      <DependentUpon>cmpreportsForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Accounts\Company Accounts\Company Borrow\Company Borrow Account.resx">
+      <DependentUpon>Company Borrow Account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Accounts\Company Accounts\Company Borrow\CompanyBorrowReportsForm1.resx">
+      <DependentUpon>CompanyBorrowReportsForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Accounts\Company Accounts\ExpireForm1.resx">
+      <DependentUpon>ExpireForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Accounts\Company Accounts\GenralPurchasecompanyForm.resx">
+      <DependentUpon>GenralPurchasecompanyForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Accounts\Company Accounts\newcmpacForm1.resx">
+      <DependentUpon>newcmpacForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Accounts\Company Accounts\ReportForm.resx">
+      <DependentUpon>ReportForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Accounts\Company Accounts\CompanyAccountsForm.resx">
+      <DependentUpon>CompanyAccountsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Accounts\Company Accounts\reportForm1.resx">
+      <DependentUpon>reportForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Accounts\Employees\employeeForm.resx">
+      <DependentUpon>employeeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Accounts\Employees\employeereportForm.resx">
+      <DependentUpon>employeereportForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Accounts\Expenditures\AddexpensesForm.resx">
+      <DependentUpon>AddexpensesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Accounts\Expenditures\expensisreportsForm.resx">
+      <DependentUpon>expensisreportsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Accounts\Purchase Accounts\PurchaseAccountForm.resx">
+      <DependentUpon>PurchaseAccountForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Accounts\Purchase Accounts\TotalpurchaseReportForm.resx">
+      <DependentUpon>TotalpurchaseReportForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Accounts\Sale Account\addsaleForm.resx">
+      <DependentUpon>addsaleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Accounts\Sale Account\SaleaccountForm.resx">
+      <DependentUpon>SaleaccountForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Accounts\Waqar.resx">
+      <DependentUpon>Waqar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Accounts\waqarreportForm.resx">
+      <DependentUpon>waqarreportForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\AddProductForm.resx">
+      <DependentUpon>AddProductForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\barcodegenratorForm.resx">
+      <DependentUpon>barcodegenratorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\changepassForm.resx">
+      <DependentUpon>changepassForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\DashboardForm.resx">
+      <DependentUpon>DashboardForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\ExpiryForm.resx">
+      <DependentUpon>ExpiryForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\HelpForm.resx">
+      <DependentUpon>HelpForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\ManageReports.resx">
+      <DependentUpon>ManageReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\ProductsOrderForm.resx">
+      <DependentUpon>ProductsOrderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\ProductsViewForm.resx">
+      <DependentUpon>ProductsViewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\SoldReportForm.resx">
+      <DependentUpon>SoldReportForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Template\templateForm.resx">
+      <DependentUpon>templateForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Screens\usersForm.resx">
+      <DependentUpon>usersForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Models\DataClasses1.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClasses1.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Models\DataClasses1.dbml.layout">
+      <DependentUpon>DataClasses1.dbml</DependentUpon>
+    </None>
+    <None Include="Models\DataClasses10.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClasses10.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Models\DataClasses10.dbml.layout">
+      <DependentUpon>DataClasses10.dbml</DependentUpon>
+    </None>
+    <None Include="Models\DataClasses11.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClasses11.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Models\DataClasses11.dbml.layout">
+      <DependentUpon>DataClasses11.dbml</DependentUpon>
+    </None>
+    <None Include="Models\DataClasses12.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClasses12.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Models\DataClasses12.dbml.layout">
+      <DependentUpon>DataClasses12.dbml</DependentUpon>
+    </None>
+    <None Include="Models\DataClasses13.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClasses13.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Models\DataClasses13.dbml.layout">
+      <DependentUpon>DataClasses13.dbml</DependentUpon>
+    </None>
+    <None Include="Models\DataClasses14.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClasses14.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Models\DataClasses14.dbml.layout">
+      <DependentUpon>DataClasses14.dbml</DependentUpon>
+    </None>
+    <None Include="Models\DataClasses15.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClasses15.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Models\DataClasses15.dbml.layout">
+      <DependentUpon>DataClasses15.dbml</DependentUpon>
+    </None>
+    <None Include="Models\DataClasses16.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClasses16.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Models\DataClasses16.dbml.layout">
+      <DependentUpon>DataClasses16.dbml</DependentUpon>
+    </None>
+    <None Include="Models\DataClasses17.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClasses17.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Models\DataClasses17.dbml.layout">
+      <DependentUpon>DataClasses17.dbml</DependentUpon>
+    </None>
+    <None Include="Models\DataClasses18.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClasses18.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Models\DataClasses18.dbml.layout">
+      <DependentUpon>DataClasses18.dbml</DependentUpon>
+    </None>
+    <None Include="Models\DataClasses19.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClasses19.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Models\DataClasses19.dbml.layout">
+      <DependentUpon>DataClasses19.dbml</DependentUpon>
+    </None>
+    <None Include="Models\DataClasses2.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClasses2.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Models\DataClasses2.dbml.layout">
+      <DependentUpon>DataClasses2.dbml</DependentUpon>
+    </None>
+    <None Include="Models\DataClasses20.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClasses20.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Models\DataClasses20.dbml.layout">
+      <DependentUpon>DataClasses20.dbml</DependentUpon>
+    </None>
+    <None Include="Models\DataClasses3.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClasses3.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Models\DataClasses3.dbml.layout">
+      <DependentUpon>DataClasses3.dbml</DependentUpon>
+    </None>
+    <None Include="Models\DataClasses4.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClasses4.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Models\DataClasses4.dbml.layout">
+      <DependentUpon>DataClasses4.dbml</DependentUpon>
+    </None>
+    <None Include="Models\DataClasses5.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClasses5.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Models\DataClasses5.dbml.layout">
+      <DependentUpon>DataClasses5.dbml</DependentUpon>
+    </None>
+    <None Include="Models\DataClasses6.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClasses6.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Models\DataClasses6.dbml.layout">
+      <DependentUpon>DataClasses6.dbml</DependentUpon>
+    </None>
+    <None Include="Models\DataClasses7.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClasses7.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Models\DataClasses7.dbml.layout">
+      <DependentUpon>DataClasses7.dbml</DependentUpon>
+    </None>
+    <None Include="Models\DataClasses8.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClasses8.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Models\DataClasses8.dbml.layout">
+      <DependentUpon>DataClasses8.dbml</DependentUpon>
+    </None>
+    <None Include="Models\DataClasses9.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClasses9.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Models\DataClasses9.dbml.layout">
+      <DependentUpon>DataClasses9.dbml</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp-icon.png" />
+    <None Include="Resources\call-ringing-icon.png" />
+    <Content Include="Resources\images.png" />
+    <None Include="Resources\phone-call-icon.png" />
+    <None Include="Resources\images1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Screens\Accounts\Sale Accounts\" />
+    <Folder Include="Screens\NewFolder1\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

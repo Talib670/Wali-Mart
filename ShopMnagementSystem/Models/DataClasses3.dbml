@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ShopManage" Class="DataClasses3DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=ShopManage;Integrated Security=True" SettingsObjectName="ShopMnagementSystem.Properties.Settings" SettingsPropertyName="ShopManageConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tblSoldProduct" Member="tblSoldProducts">
+    <Type Name="tblSoldProduct">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="[Product Name]" Member="Product_Name" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+      <Column Name="Price" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Quantity" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="[Grand Price]" Member="Grand_Price" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="Date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="[Sale Man]" Member="Sale_Man" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+      <Column Name="[Invoice Num]" Member="Invoice_Num" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
